@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "notes": "Otomatik güncelleme sistemi iyileştirildi ve güncelleme mekanizması düzeltildi.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.0.8/OzgurHarita-v1.0.8.zip"
+  "version": "1.0.10",
+  "notes": "Otomatik güncelleme ve uygulama kapanış mekanizması iyileştirildi.",
+  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.0.10/OzgurHarita-v1.0.10.zip"
 }
