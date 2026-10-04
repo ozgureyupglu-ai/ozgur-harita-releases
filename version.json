@@ -1,5 +1,5 @@
 {
   "version": "1.0.12",
-  "notes": "Ana sayfa arayüzü yenilendi. Modern ikonlar, Özgür Harita logosu ve izohips/eş yükselti eğrileri eklendi.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.0.11/OzgurHarita-v1.0.11.zip"
+  "notes": "Güvenli kullanıcı giriş sistemi ve Supabase Auth entegrasyonu eklendi. Veritabanı erişimi authenticated kullanıcılarla sınırlandırıldı ve RLS güvenlik politikaları güçlendirildi.",
+  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.0.12/OzgurHarita-v1.0.12.zip"
 }
