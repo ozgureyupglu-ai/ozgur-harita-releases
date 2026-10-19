@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
-  "notes": "Ana sayfa, giriş ekranı, müşteri ve iş formları yenilendi. İşler, Tahsilat, Raporlar ve Müşteri Detayı ekranları düzenlendi. Excel/PDF rapor aktarımı, müşteri notları ve telefondan WhatsApp sohbeti açma eklendi. Tablo görünümü ve satır taşmaları düzeltildi.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.2/OzgurHarita-v1.2.zip",
-  "sha256": "cdb4d298f7ebc9dc87b9dde686cc38ca66ac5e0336e896c0b8becbf358d68bf3"
+  "version": "1.3",
+  "notes": "Firma Borçları eklendi: yeni borç, tek veya birden fazla borca ödeme, ödeme geçmişi ve müşteri işine bağlantı. Bilgisayar, telefon ve tablette ortak kayıtlar kullanılır. Kurumsal arayüz, tablo/sıralama, logolu dikey PDF ve kayıt seçimi iyileştirildi. Açılış ve sayfa geçişleri hızlandırıldı. Güncelleme düğmesi eklendi.",
+  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.3/OzgurHarita-v1.3.zip",
+  "sha256": "f019a642b418aa109921620a0d038f2cc5613414925c68b926dae72212500945"
 }
