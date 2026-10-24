@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "notes": "Firma Borçları eklendi: yeni borç, tek veya birden fazla borca ödeme, ödeme geçmişi ve müşteri işine bağlantı. Bilgisayar, telefon ve tablette ortak kayıtlar kullanılır. Kurumsal arayüz, tablo/sıralama, logolu dikey PDF ve kayıt seçimi iyileştirildi. Açılış ve sayfa geçişleri hızlandırıldı. Güncelleme düğmesi eklendi.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.3/OzgurHarita-v1.3.zip",
-  "sha256": "f019a642b418aa109921620a0d038f2cc5613414925c68b926dae72212500945"
+  "version": "1.4",
+  "notes": "Yeni kurumsal arayüz: lacivert menü, sağ üstte sayfa düğmeleri, tıklanabilir durum filtreleri ve ödeme çubukları. Müşteriler sayfasında sağda müşteri özeti; Ödeme Ekle, Yeni İş, Taşınmaz Ekle ve PDF Ekstre tek yerde. Raporlarda grafikler ve her zaman görünen filtreler. Yeni İş penceresinde '+ Yeni Taşınmaz' düğmesi. Pamukova ve Geyve mahalle listeleri TKGM ile tamamlandı. Karanlık Windows temasında takvim ve menüler okunaklı hale getirildi.",
+  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.4/OzgurHarita-v1.4.zip",
+  "sha256": "f6104fa66fb3ed47cf2e7a35cbcf76a17ddc5d834fdfb2ee2b2740ee4b9fbadd"
 }
