@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notes": "Yeni kurumsal arayüz: lacivert menü, sağ üstte sayfa düğmeleri, tıklanabilir durum filtreleri ve ödeme çubukları. Müşteriler sayfasında sağda müşteri özeti; Ödeme Ekle, Yeni İş, Taşınmaz Ekle ve PDF Ekstre tek yerde. Raporlarda grafikler ve her zaman görünen filtreler. Yeni İş penceresinde '+ Yeni Taşınmaz' düğmesi. Pamukova ve Geyve mahalle listeleri TKGM ile tamamlandı. Karanlık Windows temasında takvim ve menüler okunaklı hale getirildi.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.4/OzgurHarita-v1.4.zip",
-  "sha256": "f6104fa66fb3ed47cf2e7a35cbcf76a17ddc5d834fdfb2ee2b2740ee4b9fbadd"
+  "version": "1.5",
+  "notes": "Program çok daha hızlı açılıyor (şifreden sonra ~2 sn). Firma Borçları: borç silme, firma filtresi etiketi, borcu olmayan firmalar gizlenir, İşe Bağla kaldırıldı, müşteri taşınmazdan otomatik bulunur. Geçmiş tarihli müşteri ödemesi. Müşteriye çift tıklayınca ayrıntılar, paneldeki işe tıklayınca İş Detayı. İşlerde Kaydı sil, Taşınmazı Düzenle. Raporlarda tek satır filtre. Karanlık Windows temasında okunaklı menü ve takvimler.",
+  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.5/OzgurHarita-v1.5.zip",
+  "sha256": "5b490c0b08bf72d2690c03c956406a380c3e37b57712d3a221817b428163a1b7"
 }
