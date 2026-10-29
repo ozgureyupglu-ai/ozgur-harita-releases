@@ -1,6 +1,1 @@
-{
-  "version": "1.5",
-  "notes": "Program çok daha hızlı açılıyor (şifreden sonra ~2 sn). Firma Borçları: borç silme, firma filtresi etiketi, borcu olmayan firmalar gizlenir, İşe Bağla kaldırıldı, müşteri taşınmazdan otomatik bulunur. Geçmiş tarihli müşteri ödemesi. Müşteriye çift tıklayınca ayrıntılar, paneldeki işe tıklayınca İş Detayı. İşlerde Kaydı sil, Taşınmazı Düzenle. Raporlarda tek satır filtre. Karanlık Windows temasında okunaklı menü ve takvimler.",
-  "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.5/OzgurHarita-v1.5.zip",
-  "sha256": "5b490c0b08bf72d2690c03c956406a380c3e37b57712d3a221817b428163a1b7"
-}
+{"version": "1.6", "notes": "TKGM'de Göster düğmesi. İşlere evrak ve fotoğraf ekleme. Tahsilat makbuzu (PDF). WhatsApp ödeme hatırlatması (IBAN ile). Aynı parselde önceki işler uyarısı. Haftalık otomatik yedek (Drive). İşler listesinde çift tıklayınca İş Detayı.", "download_url": "https://github.com/ozgureyupglu-ai/ozgur-harita-releases/releases/download/v1.6/OzgurHarita-v1.6.zip", "sha256": "58496fe73feac5323f8f253f6127471cdd6fdcce7dcc76e75f1438d1910c4e33"}
